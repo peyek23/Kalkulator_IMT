@@ -1,0 +1,5 @@
+<!-- res/drawable/item_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/biruijo" /> <!-- Warna latar belakang item, ganti dengan warna yang diinginkan -->
+    <corners android:radius="8dp" /> <!-- Radius sudut bulat, sesuaikan dengan preferensi Anda -->
+</shape>
